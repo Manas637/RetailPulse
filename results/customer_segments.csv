@@ -1,0 +1,4 @@
+customer_segment,customer_count,average_customer_value,total_customer_value,average_orders_per_customer
+One-Time Customer,93099,161.43,14921510.75,1.0
+Repeat Customer,2948,300.63,883850.07,2.07
+Frequent Customer,49,779.44,38192.42,4.96
